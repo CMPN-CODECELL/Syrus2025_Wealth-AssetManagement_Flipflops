@@ -1,3 +1,4 @@
+# FINAL PPT After round 2: [Round 2 PPT](https://github.com/CMPN-CODECELL/Syrus2025_Wealth-AssetManagement_Flipflops/blob/main/PPT_Flipflops_02%20(1).pdf)
 # WealthSphere  
 
 WealthSphere is an AI-powered financial assistant designed to provide personalized financial insights, investment strategies, and risk analysis. It integrates multiple AI agents to help users make informed decisions about loans, budgeting, asset management, and long-term financial planning. By leveraging AI-driven predictions and real-time data, WealthSphere simplifies wealth management for individuals.  
