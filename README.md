@@ -1,5 +1,5 @@
-# FINAL PPT: <a href="https://docs.google.com/presentation/d/170uBvGN9-6bTfW2KFL8STn1iyLJxfY9ibliYH-tPVmI/edit?usp=sharing" target="_blank">Final PPT</a>
-VIDEO LINK: <a href="https://drive.google.com/file/d/147ax-AkQI8Qd6T6capQlF1_r2pEk9hc-/view?usp=sharing" target="_blank">FlipFlops_02_Video</a>
+# FINAL PPT: <a href="https://docs.google.com/presentation/d/170uBvGN9-6bTfW2KFL8STn1iyLJxfY9ibliYH-tPVmI/edit?usp=sharing" target="blank">Final PPT</a>
+VIDEO LINK: <a href="https://drive.google.com/file/d/147ax-AkQI8Qd6T6capQlF1_r2pEk9hc-/view?usp=sharing" target="blank">FlipFlops_02_Video</a>
 # WealthSphere  
 
 WealthSphere is an AI-powered financial assistant designed to simplify wealth management by providing personalized financial insights, investment strategies, and risk analysis. The platform integrates multiple AI agents to help users make informed decisions regarding loans, budgeting, asset management, and long-term financial planning. By leveraging AI-driven predictions and real-time financial data, WealthSphere empowers users to take control of their finances effortlessly.
